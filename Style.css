@@ -1,0 +1,49 @@
+* {
+    text-align: center;
+    background-color: #222831;
+}
+h1 {
+    color:#EEEEEE;
+    text-transform: uppercase;
+}
+h2 {
+    color: #EEEEEE;
+}
+h3 {
+    color: #EEEEEE;
+}
+p {
+    color: #EEEEEE;
+}
+a {
+    color: #EEEEEE;
+    text-transform: uppercase;
+    text-decoration: solid;
+    margin-left: 30px;
+    background-color: #31363F;
+    border: 4px solid #31363F;
+    border-radius: 5px 0px 5px 5px;
+}
+li {
+    color: #EEEEEE;
+    text-align: left;
+    background-color: #31363F;
+    margin: 0px;
+    border: 4px solid #31363F;
+    padding-left: 5px;
+    list-style-type: none;
+}
+strong {
+    color: #EEEEEE;
+    text-align: left;
+    background-color: #31363F;
+    margin: 0px;
+    border: 4px solid #31363F;
+    padding-left: 5px;
+}
+#skills {
+    list-style-type: initial;
+}
+#portfolio {
+    list-style-type: initial;
+}
